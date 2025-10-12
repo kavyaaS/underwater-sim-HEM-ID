@@ -1,0 +1,29 @@
+# Unreal generated / caches
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# World Partition generated caches
+Content/_ExternalActors_/
+Content/_ExternalObjects_/
+
+# Editor/developer-only
+Content/Collections/
+Content/Developers/
+
+# Third-party content (not redistributable)
+Content/Megascans/
+Content/MSPresets/
+Content/DownloadedGrass/
+
+
+# IDE / OS
+.vs/
+.idea/
+*.sln
+*.sdf
+*.suo
+*.opensdf
+.DS_Store
+Thumbs.db
