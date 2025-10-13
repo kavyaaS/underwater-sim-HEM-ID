@@ -66,11 +66,15 @@ Data collected included task completion time, collision count, NASA-TLX workload
 
 ---
 
+## 🪪 License
 
+This project’s code, Blueprints, and documentation are licensed under  
+**[Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)**.
 
-## License
-- Project content and code: **CC BY-NC 4.0** (non-commercial; attribution required). See `LICENSE`.
-- Quixel/Marketplace assets: licensed separately via Epic/Fab and **not included**.
+External assets (Quixel Megascans and Unreal Marketplace content) are **not included** and remain subject to the  
+[Epic Games EULA](https://www.epicgames.com/site/en-US/eula) and individual asset licenses.  
+See [Docs/ASSETS.md](Docs/ASSETS.md) for details.
+
 
 ## Citation
 If you use this simulator, please cite it. See `CITATION.cff`.
