@@ -82,4 +82,4 @@ The water environment was obtained as assets from: https://lynkolight.gumroad.co
 
 ## Citation
 If you use this simulator, please cite it. See `CITATION.cff`.
-(doi badge will go here after you mint it)
+[DOI](https://doi.org/10.5281/zenodo.17336426)
