@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this simulator, please cite it as below."
+title: "Underwater Teleoperation Simulator (HEM-ID)"
+version: "1.0.0"
+authors:
+  - family-names: "Somasundaram"
+    given-names: "Kavyaa"
+    affiliation: "Machine Perception and Interaction lab, Örebro University, Sweden"
+    orcid: "https://orcid.org/0000-0002-3624-0845"   
+abstract: >
+  This Unreal Engine 5.3.2-based simulator models an underwater remotely operated vehicle (ROV)
+  environment used for studying Intelligent Human Error Mitigation (HEM-ID) in teleoperation.
+  The simulation was developed and tested on Windows, with realistic buoyancy physics and Lumen-based lighting. It serves as the 
+  experimental environment for the ACM THRI paper on Intelligent Disobedience in teleoperated tasks.
+repository-code: "https://github.com/kavyaaS/underwater-sim-HEM-ID"
+license: "CC-BY-NC-4.0"
+keywords:
+  - Unreal Engine 5
+  - Teleoperation
+  - Human-Robot Interaction
+  - Intelligent Disobedience
+  - Underwater Robotics
+  - Simulation
+  - BlueROV
+type: software
+license-url: "https://creativecommons.org/licenses/by-nc/4.0/"
+date-released: "2025-10-13"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Somasundaram"
+      given-names: "Kavyaa"
+  title: "Underwater Teleoperation Simulator (HEM-ID)"
+  year: 2025
+  doi: "10.5281/zenodo.xxxxxx"  # <-- Replace after Zenodo DOI is created
