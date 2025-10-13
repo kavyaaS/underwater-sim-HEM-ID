@@ -75,6 +75,10 @@ External assets (Quixel Megascans and Unreal Marketplace content) are **not incl
 [Epic Games EULA](https://www.epicgames.com/site/en-US/eula) and individual asset licenses.  
 See [Docs/ASSETS.md](Docs/ASSETS.md) for details.
 
+## Acknowledgement
+
+The water environment was obtained as assets from: https://lynkolight.gumroad.com/l/fabiz?layout=discover&recommended_by=search&_gl=1*1118l88*_ga*NzM2MTAyODIwLjE3NjAzMjE0MDI.*_ga_6LJN6D94N6*czE3NjAzMjE0MDIkbzEkZzAkdDE3NjAzMjE0MDIkajYwJGwwJGgw
+
 
 ## Citation
 If you use this simulator, please cite it. See `CITATION.cff`.
