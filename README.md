@@ -1,8 +1,16 @@
 # Underwater-sim-HEM-ID
 The simulator models an underwater remotely operated vehicle (ROV), BlueROV, for navigation tasks.   Participants teleoperate the ROV through different challenges that can lead to human-induced errors (mistakes, slips, and lapses).
 
-<h3>Simulation Demo</h3>
-<video src="Docs/full_gameplay_base_level.mp4" width="560" controls muted loop></video>
+## 🎬 Simulation Demos
+
+### 🐠 Full Simulation Overview (5 min)
+[![Watch the simulation demo](https://img.shields.io/badge/▶️%20Click%20to%20Play-Full%20Simulation-blue)](Docs/full_gameplay_base_level.mp4)
+Your browser does not support the video tag.
+</video>
+
+> This video shows the underwater teleoperation task, where the ROV navigates through the ring-collection course under varying visibility and depth conditions.
+
+---
 
 ## 💻 Technical details
 
