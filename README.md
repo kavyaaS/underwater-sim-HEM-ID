@@ -5,7 +5,7 @@ The simulator models an underwater remotely operated vehicle (ROV), BlueROV, for
 
 ### 🐠 Full Simulation Overview (5 min)
 
-![Demo preview](https://github.com/kavyaaS/underwater-sim-HEM-ID/tree/main/Docs/first_person_third_person_view_change.gif)
+![Demo preview](./first_person_third_person_view_change.gif)
 
 [![Watch the simulation demo](https://img.shields.io/badge/▶️%20Click%20to%20Play-Full%20Simulation-blue)](Docs/full_gameplay_base_level.mp4)
 Your browser does not support the video tag.
