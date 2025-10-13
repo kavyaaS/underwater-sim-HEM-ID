@@ -1,6 +1,8 @@
 # Underwater-sim-HEM-ID
 The simulator models an underwater remotely operated vehicle (ROV), BlueROV, for navigation tasks.   Participants teleoperate the ROV through different challenges that can lead to human-induced errors (mistakes, slips, and lapses).
 
+<h3>Simulation Demo</h3>
+<video src="Docs/full_gameplay_base_level.mp4" width="560" controls muted loop></video>
 
 ## 💻 Technical details
 
