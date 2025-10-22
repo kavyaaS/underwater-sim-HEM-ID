@@ -77,9 +77,26 @@ See [Docs/ASSETS.md](Docs/ASSETS.md) for details.
 
 ## Acknowledgement
 
-The water environment was obtained as assets from: https://lynkolight.gumroad.com/l/fabiz?layout=discover&recommended_by=search&_gl=1*1118l88*_ga*NzM2MTAyODIwLjE3NjAzMjE0MDI.*_ga_6LJN6D94N6*czE3NjAzMjE0MDIkbzEkZzAkdDE3NjAzMjE0MDIkajYwJGwwJGgw
+The water environment was obtained as assets from karim aboushousha: https://lynkolight.gumroad.com/l/fabiz?layout=discover&recommended_by=search&_gl=1*1118l88*_ga*NzM2MTAyODIwLjE3NjAzMjE0MDI.*_ga_6LJN6D94N6*czE3NjAzMjE0MDIkbzEkZzAkdDE3NjAzMjE0MDIkajYwJGwwJGgw
 
 
 ## Citation
 If you use this simulator, please cite it. See `CITATION.cff`.
 [DOI](https://doi.org/10.5281/zenodo.17336426)
+
+APA citation format:
+Somasundaram, K. (2025). Underwater teleoperation simulator (HEM-ID) [Computer software]. GitHub. https://doi.org/10.5281/zenodo.17336426
+
+Bib-Tex format:
+@software{somasundaram2025underwater,
+  author       = {Kavyaa Somasundaram},
+  title        = {Underwater Teleoperation Simulator (HEM-ID)},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/kavyaaS/underwater-sim-HEM-ID},
+  doi          = {10.5281/zenodo.17336426},
+  version      = {v1.0},
+  license      = {CC-BY-NC-4.0},
+  license_url  = {https://creativecommons.org/licenses/by-nc/4.0/},
+  keywords     = {Unreal Engine 5, Teleoperation, Human-Robot Interaction, Intelligent Disobedience, Underwater Robotics, Simulation, BlueROV},
+  note         = {Released on October 13, 2025. Openly available under a Creative Commons Attribution-NonCommercial 4.0 International License.}
