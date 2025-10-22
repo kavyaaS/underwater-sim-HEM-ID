@@ -59,10 +59,10 @@ Full video of the gameplay is present in `/full_gameplay_base_level.mp4`. This v
 
 ## 🧠 Research context (THRI paper)
 
-This simulator was the testbed for evaluating **Intelligent Disobedience (ID)** strategies in human–robot collaboration and this level was developed as the base (control) level with the three types of human-induced errors embedded in the simulation. The idea was to use this testbed to study the different ID strategies to mitigate the human-induced errors through a wizard-of-oz experiment approach.
+This simulator was the testbed for evaluating **Intelligent Disobedience (ID)** strategies in human–robot collaboration and this level was developed as the base (control) level with the three types of human-induced errors embedded in the simulation. The idea was to use this testbed to study the different ID strategies to mitigate the human-induced errors through a wizard-of-oz experiment approach. This simulation is the base layer upon which any prompts or strategies can be developed.
 
 Participants completed timed ring-collection tasks under varying visibility and environmental conditions.  
-Data collected included task completion time, collision count, NASA-TLX workload, MDMT trust, and acceptance ratings. Please refer to the paper for more information: 
+Data collected included accuracy, task completion time, collision count, NASA-TLX workload, MDMT trust, and acceptance ratings. Please refer to the paper for more information: (DOI to be added soon)
 
 ---
 
